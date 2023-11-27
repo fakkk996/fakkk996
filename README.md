@@ -1,7 +1,7 @@
 <h1 align="center">
 <!-- 这是一个循环打字的 svg 小动画 -->
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎光临予程开发!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎光临996开发工作室!&center=true&size=27">
   </a>
 </h1>
 
